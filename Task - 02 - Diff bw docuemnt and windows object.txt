@@ -1,0 +1,15 @@
+Diff b/w docuemnt and windows object in js
+
+Windows
+Windows is an object. Window object sits at the top of the javascript object hierarchy and represents the browser window. 
+
+All global js obj., functions and variebles automatically become members of the window object.
+
+The window is the first thing that get loaded into the browser
+
+Docuemnt
+it represents any web page loaded in the browser and serves as an entry point into the web page's contect, which is the DOM tree. 
+when a HTML docuemnt is loaded into a web browesr, it becomes a document object.
+IT is the root node of the HTML document. 
+HTMLDocument interface will hold text/HTML content
+XMLDocument interface will hold XML and SVG content
